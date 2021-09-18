@@ -6,7 +6,7 @@
 
 An explanation of the project.
 Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
-![image](https://user-images.githubusercontent.com/86257908/132930303-78341446-e959-4425-b076-7250eb85c61b.png)
+
 
 ### Four visualization pages, each with:
 
