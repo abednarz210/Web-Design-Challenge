@@ -1,6 +1,6 @@
 # Web-Design-Challenge
 
-"http://localhost:52330/index.html</a>
+https://abednarz210.github.io/Web-Design-Challenge/
 
 ## The website must consist of 7 pages total, including:
 
