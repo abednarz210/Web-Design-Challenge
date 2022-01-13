@@ -6,8 +6,9 @@ https://abednarz210.github.io/Web_Design/
 
 ### A landing page containing:
 
-An explanation of the project.
-Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
+The purpose of this project was to analyze weather changes in respect to the location data to the equator. The analysis was achieved by pulling data from the 
+OpenWeatherApi to create datasets for over 500 cities. After the datasets were compiled MatplotLib was used to plot the vaious relationships of Latitude versus 
+Temperature, Humidity, Cloudiness, and Wind Speed.
 
 
 ### Four visualization pages, each with:
@@ -25,8 +26,6 @@ Uses Bootstrap for the visualizations.
 
 ### A "Data" page that:
 
-Displays a responsive table containing the data used in the visualizations.
-
-The table must be a bootstrap table component.
-
-The data must come from exporting the .csv file as HTML, or converting it to HTML. 
+* Displays a responsive table containing the data used in the visualizations.
+* The table must be a bootstrap table component.
+* The data must come from exporting the .csv file as HTML, or converting it to HTML. 
