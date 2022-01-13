@@ -2,6 +2,9 @@
 
 https://abednarz210.github.io/Web_Design/
 
+![image](Resources/website.png)
+
+
 ## Create a website that includes:
 
 ### A landing page containing:
