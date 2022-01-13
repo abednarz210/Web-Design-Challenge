@@ -1,6 +1,6 @@
 # Web_Design
 
-https://abednarz210.github.io/Web-Design-Challenge/
+https://abednarz210.github.io/Web_Design/
 
 ## Create a website that includes:
 
