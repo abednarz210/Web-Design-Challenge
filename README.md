@@ -1,8 +1,8 @@
-# Web-Design-Challenge
+# Web_Design
 
 https://abednarz210.github.io/Web-Design-Challenge/
 
-## The website must consist of 7 pages total, including:
+## Create a website that includes:
 
 ### A landing page containing:
 
