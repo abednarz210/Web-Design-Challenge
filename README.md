@@ -20,8 +20,8 @@ Temperature, Humidity, Cloudiness, and Wind Speed.
 
 ### A "Comparisons" page that:
 
-Contains all of the visualizations on the same page so we can easily visually compare them.
-Uses Bootstrap for the visualizations.
+* Contains all of the visualizations on the same page to visually compare them.
+* Use Bootstrap for the visualizations.
 
 
 ### A "Data" page that:
